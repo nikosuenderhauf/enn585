@@ -1,0 +1,16 @@
+name: enn585
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mujoco
+  - ca-certificates
+  - openssl
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - certifi
+  - opencv
+  - gymnasium
+  - pygame
+prefix: /home/niko/mambaforge/envs/enn585
