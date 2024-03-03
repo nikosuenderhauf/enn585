@@ -13,4 +13,6 @@ dependencies:
   - opencv
   - gymnasium
   - pygame
+  - torch
+  - minari
 prefix: /home/niko/mambaforge/envs/enn585

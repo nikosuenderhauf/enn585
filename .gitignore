@@ -1,6 +1,5 @@
 # ignore the output directories where gym videos will be rendered
 output/
-CartPole-v1-expert
 logs/
 
 
