@@ -14,5 +14,5 @@ dependencies:
   - gymnasium
   - pygame
   - torch
-  - minari
+  - renderlab=1.0.3
 prefix: /home/niko/mambaforge/envs/enn585
